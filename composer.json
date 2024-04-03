@@ -1,0 +1,16 @@
+{
+    "name": "victor/poo_php",
+    "description": "Apre",
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "correo@correo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./clases"
+        }
+    }
+}
